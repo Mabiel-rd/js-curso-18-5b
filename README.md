@@ -7,4 +7,4 @@
 * [x] confimar los cambios con el comando  **git commit -am "primer commit remoto"**
 * [x] Agregar m repositorio remoto a mi repositorio local usando **git romete add origin url_remote**
 * [x] Subir mis cambios a remoto usando **git push -u origin main**
-* [] Comprobar que mi remoto tenga los ultimos cambios agregados.
+* [x] Comprobar que mi remoto tenga los ultimos cambios agregados.
