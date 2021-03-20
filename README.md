@@ -1,5 +1,9 @@
 # Lab #3 Enñazando mi proyeto con GitHub:
 *.md MarkDown  
+ Estudiante. Remote Repo  link: https://github.com/Mabiel-rd/js-curso-18-5b
+ 
+ ## TODO-LIST:
+
 * [x] Crear cuenta de GitHub.
 * [x] Crear un repositorio en GitHub - Nombre del repo = js-curso-18-5b.
 * [x] Cambiar el nombre de mi rama local master -> main.
