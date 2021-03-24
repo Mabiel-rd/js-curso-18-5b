@@ -1,7 +1,7 @@
 # Lab #3 Enñazando mi proyeto con GitHub:
 *.md MarkDown  
  Estudiante. Remote Repo  link: https://github.com/Mabiel-rd/js-curso-18-5b
- 
+
  ## TODO-LIST:
 
 * [x] Crear cuenta de GitHub.
@@ -11,4 +11,4 @@
 * [x] confimar los cambios con el comando  **git commit -am "primer commit remoto"**
 * [x] Agregar m repositorio remoto a mi repositorio local usando **git romete add origin url_remote**
 * [x] Subir mis cambios a remoto usando **git push -u origin main**
-* [x] Comprobar que mi remoto tenga los ultimos cambios agregados.
+* [x] Comprobar que mi remoto tenga los ultimos cambios agregados. 
