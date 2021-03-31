@@ -13,20 +13,20 @@ const ordenaBubuja = (lista) => {
          for (indexChage = 0; indexChage < (longitudLista - indexOrder); indexChage++){
              // Indercambiar los valores si el anterior es mayor al siguiente.
              if (lista[indexChage] > lista[indexChage + 1]) {
-                 auxChage = lista[indexChage];
+                auxChage = lista[indexChage];
                 lista[indexChage] = lista[indexChage + 1];
                 lista[indexChage + 1] = auxChage; 
-      }
-     }
-  }
+          }
+        }
+    }
     
     return lista;
 }
 
- let ListaDesordenada = [6, 5, 3, 1, 8, 7, 2, 4];
- console.warn(ListaDesordenada); //Mostramos, por consola, la lista desordenada 
+ let listaDesordenada = [6, 5, 3, 1, 8, 7, 2, 4];
+ console.warn(listaDesordenada); //Mostramos, por consola, la lista desordenada 
 
- const listaOrdenada = ordenaBubuja(ListaDesordenada);
+ const listaOrdenada = ordenaBubuja(listaDesordenada);
  console.log(listaOrdenada); //Mostramos, por consola, la lista ya ordenada 
 
 //Mabiel Rosario
