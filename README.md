@@ -28,22 +28,36 @@
  * [x] Usar comando **git push** para subir mis cambios al remoto.
 
  ### Lab 8.2 Creacion Organizacion de proyecto
- * [ ] Crear el archivo **node-CLI/app.js**
-    * [ ] Hacemos **git add .**
-    * [ ] Hacemos  **git commit -am "Crear app.js"**
-    * [ ] Hacemos **git push**
+ * [x] Crear el archivo **node-CLI/app.js**
+    * [x] Hacemos **git add .**
+    * [x] Hacemos  **git commit -am "Crear app.js"**
+    * [x] Hacemos **git push**
 * [ ] Crear directorio **node-CLI/tools**
-    * [ ] Crear **node-CLI/tools/index. js**
-    * [ ] Crear **node-CLI/tools/arvs.js**
-    * [ ] Crear **node-CLI/tools/files.js**
-    * [ ] Crear **node-CLI/tools/options.js**
-    * [ ] Crear **node-CLI/tools/task.js**
-* [] crear directorio **node-CLI/db** con 
-    * [ ] crar **node-CLT/db/task.json**
-    * [ ] hacemos **git add .**
-    * [ ] hacemos **git commit -am "Crear tools settings"**
-    * [ ] hacemos **git pust** 
+    * [x] Crear **node-CLI/tools/index. js**
+    * [x] Crear **node-CLI/tools/arvs.js**
+    * [x] Crear **node-CLI/tools/files.js**
+    * [x] Crear **node-CLI/tools/options.js**
+    * [x] Crear **node-CLI/tools/task.js**
+* [x] crear directorio **node-CLI/db** 
+    * [x] crar **node-CLT/db/task.json**
+    * [x] hacemos **git add .**
+    * [x] hacemos **git commit -am "Crear tools settings"**
+    * [x] hacemos **git pust** 
 
 
-
-
+### Lab 8.3 Tradajan con ficheros en Node  
+* [ ] Empeamos a trabajar **file.js**
+    * [ ]Importamos paquetes **path y colors**
+* [ ]Usamos paquetes importados en nuestro codigo con la funcion **loadTask()**
+    * [ ]Exportamos nuestra funcion **loadTask()**
+    * [ ]Pruebas de loadTask
+    * [ ]Hacemos **git add .**
+    * [ ]Hacemos **git commit -am "crear funcion loadTask()"**
+    * [ ]Hacemos **git push**
+* [ ]Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+    * [ ]Exportamos nuestra funcion **saveTask()**
+    * [ ]Pruebas de saveTask
+    * [ ]Hacemos **git add .** 
+    * [ ]Hacemos **git commit -am "crea funcion saveTask()"**
+    * [ ]Hacemos **git push**
+    
