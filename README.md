@@ -61,3 +61,32 @@
     * [ ]Hacemos **git commit -am "crea funcion saveTask()"**
     * [ ]Hacemos **git push**
     
+
+### Lab 8.4 Trabajando con opciones de Yangs.
+* [ ] Empezamos con **options.js**
+  * [ ]Creamos los objetos para nuestros comandos:
+      * description 
+      * title
+      * completed
+      * erased
+  * [ ] Creamos las opciones para nuestros comandos:
+      * opcionsCreate 
+      * opcionsUpdata
+      * opcionsEraseamos 
+  * [ ] Exportamos nuestras opciones 
+  * [ ] Hacemos **git add .**
+  * [ ] hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+  * [ ] Hacemos **git push**
+  
+### Lab 8.5 Trabajamos en funciones para los tasks o tareas.
+* [ ] Empezamos a trabajar con **tasks.js**
+  * [ ] Creamos funciones para trabajar los tasks:
+        * createTask
+        * updateTask
+        * eraseTask
+  * [ ] Exportamos nuestras funciones.
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Configura argvs con opciones para los comandos"**
+  * [ ] Hacemos **git push**    
+
+ 
